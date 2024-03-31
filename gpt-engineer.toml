@@ -3,3 +3,6 @@ build = "npm run build"
 
 [gptengineer-app]
 project_id = "1b194030-3ead-45b0-9ea2-4baf21d1bc4d"
+
+[[gptengineer-app.openapi]]
+url = "https://github.com/geodesicsolutions-community/geocore-community"
